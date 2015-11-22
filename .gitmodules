@@ -7,3 +7,6 @@
 [submodule "weflex/weflex"]
 	path = weflex/weflex
 	url = git@github.com:weflex/weflex.git
+[submodule "nodejs/node"]
+	path = nodejs/node
+	url = git@github.com:nodejs/node.git
