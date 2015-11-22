@@ -10,3 +10,9 @@
 [submodule "nodejs/node"]
 	path = nodejs/node
 	url = git@github.com:nodejs/node.git
+[submodule "pixeler"]
+	path = pixeler
+	url = git@github.com:younglaker/pixeler.git
+[submodule "octjs"]
+	path = octjs
+	url = git@github.com:younglaker/octjs.git
