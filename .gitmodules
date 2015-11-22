@@ -1,0 +1,3 @@
+[submodule "weflex/neaty-boot"]
+	path = weflex/neaty-boot
+	url = git@github.com:strongloop/loopback-boot.git
