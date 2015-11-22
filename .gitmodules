@@ -1,3 +1,9 @@
 [submodule "weflex/neaty-boot"]
 	path = weflex/neaty-boot
 	url = git@github.com:weflex/neaty-boot.git
+[submodule "weflex/api"]
+	path = weflex/api
+	url = git@github.com:weflex/api.git
+[submodule "weflex/weflex"]
+	path = weflex/weflex
+	url = git@github.com:weflex/weflex.git
